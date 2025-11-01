@@ -19,4 +19,5 @@ Utilized YouTube data (via public dataset/API) to build a Power BI dashboard sho
  Delivered real-time insights that supported management in identifying growth opportunities and      performance gaps.
 
  Screenshots
+ https://github.com/Adwaitbhakre/project-dashboard/blob/main/CompanyDashboard.png
  
