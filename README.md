@@ -11,13 +11,13 @@ Built interactive dashboards to track region-wise and product-wise performance.T
 Utilized YouTube data (via public dataset/API) to build a Power BI dashboard showcasing channel growth and content trends.
 
 4. Features 
- • Business Problem
- To identify key performance trends and improve decision-making through data-driven insights.
- • Goal of the dashboard
- The goal of the dashboard was to monitor regional and product-wise sales performance to identify    growth opportunities and improve profitability.
- • Business impact & Insights 
- Delivered real-time insights that supported management in identifying growth opportunities and      performance gaps.
+• Business Problem
+To identify key performance trends and improve decision-making through data-driven insights.
+• Goal of the dashboard
+The goal of the dashboard was to monitor regional and product-wise sales performance to identify    growth opportunities and improve profitability.
+• Business impact & Insights 
+Delivered real-time insights that supported management in identifying growth opportunities and      performance gaps.
 
-5. Screenshots
- https://github.com/Adwaitbhakre/project-dashboard/blob/main/CompanyDashboard.png
+6. Screenshots
+https://github.com/Adwaitbhakre/project-dashboard/blob/main/CompanyDashboard.png
  
